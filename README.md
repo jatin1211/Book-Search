@@ -1,8 +1,8 @@
 # Book-Search
-Jatin's Book library with the technologies mentioned below.
+A Book search application made using MERN stack
 
 ## Description
-A professional book search app using Google Books API and developed using MERN stack.
+a fully functioning Google Books API search engine built with a GraphQL API and Apollo Server. The app is made using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -13,8 +13,7 @@ A professional book search app using Google Books API and developed using MERN s
 * [Deployed Site](#deployed-site)
 
 ## Installation
-Please download the following packages:
-
+Please download the following packages by doing `npm i` in the book-search/ directory
 * "react": "^18.2.0",
 * "bootstrap": "^4.4.1",
 * "graphql": "^16.6.0",
@@ -31,19 +30,17 @@ Please download the following packages:
 * "jsonwebtoken": "^8.5.1",
 * "mongoose": "^5.9.10"
 
-
 ## Contribution
-
 jatin1211: https://github.com/jatin1211
 
-
-## Features
-* MERN Stack
-* JSX
-* Javascript
-* Bootstrap
-* Google Books API
-
+## Technologies used
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## Questions?
 Please email me with questions!
